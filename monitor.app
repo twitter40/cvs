@@ -3,3 +3,4 @@ grafana
 newrelic
 appDynamic
 dynatrace
+bitbucket
